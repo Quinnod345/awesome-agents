@@ -96,6 +96,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ClawMetry](https://github.com/vivekchand/clawmetry): Open-source, zero-config real-time observability dashboard for AI agent runtimes (Claude Code, Codex, Cursor, Hermes and more) with sessions, token and cost analytics, and OTLP ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/vivekchand/clawmetry?style=social)
 - [Future AGI](https://github.com/future-agi/future-agi): Open-source, self-hostable platform to evaluate, trace and guard AI agents. LLM-as-judge and code-based evals, OpenTelemetry trace ingest, and an OpenAI-compatible gateway with guardrails for PII, prompt injection and secret leaks. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 - [Kane CLI](https://github.com/LambdaTest/kane-cli): Open-source AI test agent CLI by TestMu AI that turns requirements into end-to-end tests and runs them on desktop web, Android and iOS, with every test linked to the acceptance criteria it covers. ![GitHub Repo stars](https://img.shields.io/github/stars/LambdaTest/kane-cli?style=social)
+- [Ponder](https://github.com/Quinnod345/ponder): Coverage-gated deliberative code review CLI for AI coding agents. Enforces multi-pass review convergence across distinct perspectives (skeptic, builder, dreamer, empath) with an append-only ledger and zero dependencies. ![GitHub Repo stars](https://img.shields.io/github/stars/Quinnod345/ponder?style=social)
 
 ## Software Development
 
